@@ -1,6 +1,6 @@
 <div style="column-count: 2">
     <img src="/cat.gif" width="49%" style="vertical-align: middle;">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=0&height=150&multiline=true&color=FFFFFF&lines=Hello!+;I'm+Python+;Backend+Developer" alt="Hello! I'm Python Backend Developer" width="49%" style="vertical-align: middle;">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=0&height=150&multiline=true&repeat=true&color=FFFFFF&lines=Hello!+;I'm+Python+;Backend+Developer" alt="Hello! I'm Python Backend Developer" width="49%" style="vertical-align: middle;">
 </div>
 
 # :pushpin: Stats 
